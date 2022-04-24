@@ -1,5 +1,4 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto.
+# Spread Fullstack Developer
+Repositório criado para fins de atividades proposta pela DIO. 📚😻
 
-## Links Úteis
-[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+Desafio de Projeto sobre Git/GitHub da Dio.
